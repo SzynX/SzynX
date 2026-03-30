@@ -16,6 +16,7 @@ Szabadidőmben és kisebb freelance megbízások keretében leginkább a követk
 - 🔑 **Kriptográfia:** Python alapú implementációk (RSA, AES titkosítás, SHA-256).
 - ⛓️ **Blockchain:** Alapszintű Proof-of-Work szimulációk és tárca-logikák.
 - 🐍 **Python:** Kisebb automatizációs feladatok, API kezelés és Web3 scriptek.
+- 🌱 **Tanulási folyamat:** Jelenleg a **Rust** és a **Solidity** alapjaival ismerkedem, hogy mélyítsem a tudásom az okosszerződések és a biztonságos kódolás terén.
 
 ---
 
@@ -25,7 +26,7 @@ Szabadidőmben és kisebb freelance megbízások keretében leginkább a követk
 
 | Nyelvek | Eszközök & Backend |
 | :--- | :--- |
-| ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![Git](https://img.shields.io/badge/-Git-F05033?style=flat-square&logo=git&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
+| ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white) ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![Git](https://img.shields.io/badge/-Git-F05033?style=flat-square&logo=git&logoColor=white) ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
 
 </div>
 
